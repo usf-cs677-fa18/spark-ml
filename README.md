@@ -1,1 +1,3 @@
-# spark-ml
+# Machine Learning with Spark
+
+(See Spark-ML.ipynb)
